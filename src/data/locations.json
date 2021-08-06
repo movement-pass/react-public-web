@@ -1,0 +1,3657 @@
+[
+  {
+    "id": 1001,
+    "en": "Bagerhat",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10001,
+        "en": "Bagerhat",
+        "bn": ""
+      },
+      {
+        "id": 10002,
+        "en": "Chitolmari",
+        "bn": ""
+      },
+      {
+        "id": 10003,
+        "en": "Fokirhat",
+        "bn": ""
+      },
+      {
+        "id": 10004,
+        "en": "Kochua",
+        "bn": ""
+      },
+      {
+        "id": 10005,
+        "en": "Mollahat",
+        "bn": ""
+      },
+      {
+        "id": 10006,
+        "en": "Mongla",
+        "bn": ""
+      },
+      {
+        "id": 10007,
+        "en": "Morrelgonj",
+        "bn": ""
+      },
+      {
+        "id": 10008,
+        "en": "Rampal",
+        "bn": ""
+      },
+      {
+        "id": 10009,
+        "en": "Soronkhola",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "en": "Bandarban",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10010,
+        "en": "Ali Kadam",
+        "bn": ""
+      },
+      {
+        "id": 10011,
+        "en": "Lama",
+        "bn": ""
+      },
+      {
+        "id": 10012,
+        "en": "Naikhanchori",
+        "bn": ""
+      },
+      {
+        "id": 10013,
+        "en": "Roangchori",
+        "bn": ""
+      },
+      {
+        "id": 10014,
+        "en": "Ruma",
+        "bn": ""
+      },
+      {
+        "id": 10015,
+        "en": "Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10016,
+        "en": "Thanchi",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "en": "Barguna",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10017,
+        "en": "Amtali",
+        "bn": ""
+      },
+      {
+        "id": 10018,
+        "en": "Bamna",
+        "bn": ""
+      },
+      {
+        "id": 10019,
+        "en": "Betagi",
+        "bn": ""
+      },
+      {
+        "id": 10020,
+        "en": "Patharghata",
+        "bn": ""
+      },
+      {
+        "id": 10021,
+        "en": "Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10022,
+        "en": "Taltoli",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "en": "Barishal",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10023,
+        "en": "Agoiljhara",
+        "bn": ""
+      },
+      {
+        "id": 10024,
+        "en": "Babugonj",
+        "bn": ""
+      },
+      {
+        "id": 10025,
+        "en": "Bakergonj",
+        "bn": ""
+      },
+      {
+        "id": 10026,
+        "en": "Banaripara",
+        "bn": ""
+      },
+      {
+        "id": 10027,
+        "en": "Gouranadi",
+        "bn": ""
+      },
+      {
+        "id": 10028,
+        "en": "Hijla",
+        "bn": ""
+      },
+      {
+        "id": 10029,
+        "en": "Kazirhat",
+        "bn": ""
+      },
+      {
+        "id": 10030,
+        "en": "Mahendigonj",
+        "bn": ""
+      },
+      {
+        "id": 10031,
+        "en": "Muladi",
+        "bn": ""
+      },
+      {
+        "id": 10032,
+        "en": "Uzirpur",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "en": "Barishal Metro",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10033,
+        "en": "Bandar",
+        "bn": ""
+      },
+      {
+        "id": 10034,
+        "en": "Bimanbandar",
+        "bn": ""
+      },
+      {
+        "id": 10035,
+        "en": "Kawnia",
+        "bn": ""
+      },
+      {
+        "id": 10036,
+        "en": "Kotwali",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "en": "Bhola",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10037,
+        "en": "Borhan",
+        "bn": ""
+      },
+      {
+        "id": 10038,
+        "en": "Char Fashion",
+        "bn": ""
+      },
+      {
+        "id": 10039,
+        "en": "Daulotkhan",
+        "bn": ""
+      },
+      {
+        "id": 10040,
+        "en": "Lalmohan",
+        "bn": ""
+      },
+      {
+        "id": 10041,
+        "en": "Monpura",
+        "bn": ""
+      },
+      {
+        "id": 10042,
+        "en": "Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10043,
+        "en": "Tazumuddin",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "en": "Bogra",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10044,
+        "en": "Adamdighi",
+        "bn": ""
+      },
+      {
+        "id": 10045,
+        "en": "Dhunut",
+        "bn": ""
+      },
+      {
+        "id": 10046,
+        "en": "Dupchachiya",
+        "bn": ""
+      },
+      {
+        "id": 10047,
+        "en": "Gabtali",
+        "bn": ""
+      },
+      {
+        "id": 10048,
+        "en": "Kahalu",
+        "bn": ""
+      },
+      {
+        "id": 10049,
+        "en": "Nandigram",
+        "bn": ""
+      },
+      {
+        "id": 10050,
+        "en": "Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10051,
+        "en": "Sariyakandi",
+        "bn": ""
+      },
+      {
+        "id": 10052,
+        "en": "Shajahanpur",
+        "bn": ""
+      },
+      {
+        "id": 10053,
+        "en": "Sherpur",
+        "bn": ""
+      },
+      {
+        "id": 10054,
+        "en": "Shibgonj",
+        "bn": ""
+      },
+      {
+        "id": 10055,
+        "en": "Sonatola",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "en": "Brahmmanbaria",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10056,
+        "en": "Akhaura",
+        "bn": ""
+      },
+      {
+        "id": 10057,
+        "en": "Ashugonj",
+        "bn": ""
+      },
+      {
+        "id": 10058,
+        "en": "Bacchanal",
+        "bn": ""
+      },
+      {
+        "id": 10059,
+        "en": "Bancharampur",
+        "bn": ""
+      },
+      {
+        "id": 10060,
+        "en": "Bijoynagar",
+        "bn": ""
+      },
+      {
+        "id": 10061,
+        "en": "Kasba",
+        "bn": ""
+      },
+      {
+        "id": 10062,
+        "en": "Nabinagor",
+        "bn": ""
+      },
+      {
+        "id": 10063,
+        "en": "Nasirnagor",
+        "bn": ""
+      },
+      {
+        "id": 10064,
+        "en": "Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10065,
+        "en": "Sarail",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "en": "Chandpur",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10066,
+        "en": "Chandpur Model",
+        "bn": ""
+      },
+      {
+        "id": 10067,
+        "en": "Faridgonj",
+        "bn": ""
+      },
+      {
+        "id": 10068,
+        "en": "Haimchar",
+        "bn": ""
+      },
+      {
+        "id": 10069,
+        "en": "Hajigonj",
+        "bn": ""
+      },
+      {
+        "id": 10070,
+        "en": "Kochua",
+        "bn": ""
+      },
+      {
+        "id": 10071,
+        "en": "Matlab North",
+        "bn": ""
+      },
+      {
+        "id": 10072,
+        "en": "Matlab South",
+        "bn": ""
+      },
+      {
+        "id": 10073,
+        "en": "Shahrasti",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "en": "Chapai Nawabganj",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10074,
+        "en": "Gomostapur",
+        "bn": ""
+      },
+      {
+        "id": 10075,
+        "en": "Nachoal",
+        "bn": ""
+      },
+      {
+        "id": 10076,
+        "en": "Sadar Model",
+        "bn": ""
+      },
+      {
+        "id": 10077,
+        "en": "Shibgonj",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1011,
+    "en": "Chittagong",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10078,
+        "en": "Anowara",
+        "bn": ""
+      },
+      {
+        "id": 10079,
+        "en": "Banshkhali",
+        "bn": ""
+      },
+      {
+        "id": 10080,
+        "en": "Boalkhali",
+        "bn": ""
+      },
+      {
+        "id": 10081,
+        "en": "Chandonaish",
+        "bn": ""
+      },
+      {
+        "id": 10082,
+        "en": "Fatickchari",
+        "bn": ""
+      },
+      {
+        "id": 10083,
+        "en": "Hathazari",
+        "bn": ""
+      },
+      {
+        "id": 10084,
+        "en": "Jorargonj",
+        "bn": ""
+      },
+      {
+        "id": 10085,
+        "en": "Lohagara",
+        "bn": ""
+      },
+      {
+        "id": 10086,
+        "en": "Mirsharai",
+        "bn": ""
+      },
+      {
+        "id": 10087,
+        "en": "Potiya",
+        "bn": ""
+      },
+      {
+        "id": 10088,
+        "en": "Rangunia",
+        "bn": ""
+      },
+      {
+        "id": 10089,
+        "en": "Raozan",
+        "bn": ""
+      },
+      {
+        "id": 10090,
+        "en": "Sandwip",
+        "bn": ""
+      },
+      {
+        "id": 10091,
+        "en": "Satkania",
+        "bn": ""
+      },
+      {
+        "id": 10092,
+        "en": "Sitakunda",
+        "bn": ""
+      },
+      {
+        "id": 10093,
+        "en": "Vujpur",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1012,
+    "en": "Chittagong Metro",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10094,
+        "en": "Akbarshah",
+        "bn": ""
+      },
+      {
+        "id": 10095,
+        "en": "Baizid Bostami",
+        "bn": ""
+      },
+      {
+        "id": 10096,
+        "en": "Bakolia",
+        "bn": ""
+      },
+      {
+        "id": 10097,
+        "en": "Bandar",
+        "bn": ""
+      },
+      {
+        "id": 10098,
+        "en": "Chakbazar",
+        "bn": ""
+      },
+      {
+        "id": 10099,
+        "en": "Chandgaon",
+        "bn": ""
+      },
+      {
+        "id": 10100,
+        "en": "Doublemooring",
+        "bn": ""
+      },
+      {
+        "id": 10101,
+        "en": "EPZ",
+        "bn": ""
+      },
+      {
+        "id": 10102,
+        "en": "Halishahar",
+        "bn": ""
+      },
+      {
+        "id": 10103,
+        "en": "Karnafulli",
+        "bn": ""
+      },
+      {
+        "id": 10104,
+        "en": "Khulshi",
+        "bn": ""
+      },
+      {
+        "id": 10105,
+        "en": "Kotwali",
+        "bn": ""
+      },
+      {
+        "id": 10106,
+        "en": "Pahartali",
+        "bn": ""
+      },
+      {
+        "id": 10107,
+        "en": "Panchlaish",
+        "bn": ""
+      },
+      {
+        "id": 10108,
+        "en": "Potenga",
+        "bn": ""
+      },
+      {
+        "id": 10109,
+        "en": "Sadarghat",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "en": "Chuadanga",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10110,
+        "en": "Alamdanga",
+        "bn": ""
+      },
+      {
+        "id": 10111,
+        "en": "Chuadanga Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10112,
+        "en": "Damurhuda",
+        "bn": ""
+      },
+      {
+        "id": 10113,
+        "en": "Jibonnogar",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "en": "Comilla",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10114,
+        "en": "Bangora Bazar",
+        "bn": ""
+      },
+      {
+        "id": 10115,
+        "en": "Barura",
+        "bn": ""
+      },
+      {
+        "id": 10116,
+        "en": "Brammanpara",
+        "bn": ""
+      },
+      {
+        "id": 10117,
+        "en": "Burichang",
+        "bn": ""
+      },
+      {
+        "id": 10118,
+        "en": "Chandina",
+        "bn": ""
+      },
+      {
+        "id": 10119,
+        "en": "Chouddogram",
+        "bn": ""
+      },
+      {
+        "id": 10120,
+        "en": "Daudkandi",
+        "bn": ""
+      },
+      {
+        "id": 10121,
+        "en": "Debiddar",
+        "bn": ""
+      },
+      {
+        "id": 10122,
+        "en": "Homna",
+        "bn": ""
+      },
+      {
+        "id": 10123,
+        "en": "Kotwali",
+        "bn": ""
+      },
+      {
+        "id": 10124,
+        "en": "Laksham",
+        "bn": ""
+      },
+      {
+        "id": 10125,
+        "en": "Lalmai",
+        "bn": ""
+      },
+      {
+        "id": 10126,
+        "en": "Meghna",
+        "bn": ""
+      },
+      {
+        "id": 10127,
+        "en": "Monohorgonj",
+        "bn": ""
+      },
+      {
+        "id": 10128,
+        "en": "Muradnagar",
+        "bn": ""
+      },
+      {
+        "id": 10129,
+        "en": "Nangolkot",
+        "bn": ""
+      },
+      {
+        "id": 10130,
+        "en": "Sadar South",
+        "bn": ""
+      },
+      {
+        "id": 10131,
+        "en": "Titas",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "en": "Cox's Bazar",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10132,
+        "en": "Chakuria",
+        "bn": ""
+      },
+      {
+        "id": 10133,
+        "en": "Kutubdia",
+        "bn": ""
+      },
+      {
+        "id": 10134,
+        "en": "Maheshkhali",
+        "bn": ""
+      },
+      {
+        "id": 10135,
+        "en": "Pekua",
+        "bn": ""
+      },
+      {
+        "id": 10136,
+        "en": "Ramu",
+        "bn": ""
+      },
+      {
+        "id": 10137,
+        "en": "Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10138,
+        "en": "Teknaf",
+        "bn": ""
+      },
+      {
+        "id": 10139,
+        "en": "Tourist",
+        "bn": ""
+      },
+      {
+        "id": 10140,
+        "en": "Ukhia",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "en": "Dhaka",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10141,
+        "en": "Ashulia",
+        "bn": ""
+      },
+      {
+        "id": 10142,
+        "en": "Dhamrai",
+        "bn": ""
+      },
+      {
+        "id": 10143,
+        "en": "Dohar",
+        "bn": ""
+      },
+      {
+        "id": 10144,
+        "en": "Keranigonj",
+        "bn": ""
+      },
+      {
+        "id": 10145,
+        "en": "Nawabgonj",
+        "bn": ""
+      },
+      {
+        "id": 10146,
+        "en": "Savar",
+        "bn": ""
+      },
+      {
+        "id": 10147,
+        "en": "South Keranigonj",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1017,
+    "en": "Dhaka Metro",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10148,
+        "en": "Adabor",
+        "bn": ""
+      },
+      {
+        "id": 10149,
+        "en": "Airport",
+        "bn": ""
+      },
+      {
+        "id": 10150,
+        "en": "Airport Zone",
+        "bn": ""
+      },
+      {
+        "id": 10151,
+        "en": "Badda",
+        "bn": ""
+      },
+      {
+        "id": 10152,
+        "en": "Banani",
+        "bn": ""
+      },
+      {
+        "id": 10153,
+        "en": "Bangshal",
+        "bn": ""
+      },
+      {
+        "id": 10154,
+        "en": "Cantonment",
+        "bn": ""
+      },
+      {
+        "id": 10155,
+        "en": "Chawk Bazar",
+        "bn": ""
+      },
+      {
+        "id": 10156,
+        "en": "Darussalm",
+        "bn": ""
+      },
+      {
+        "id": 10157,
+        "en": "Demra",
+        "bn": ""
+      },
+      {
+        "id": 10158,
+        "en": "Dhanmondi",
+        "bn": ""
+      },
+      {
+        "id": 10159,
+        "en": "Dockhin Khan",
+        "bn": ""
+      },
+      {
+        "id": 10160,
+        "en": "Gandaria",
+        "bn": ""
+      },
+      {
+        "id": 10161,
+        "en": "Gulshan",
+        "bn": ""
+      },
+      {
+        "id": 10162,
+        "en": "Hajaribag",
+        "bn": ""
+      },
+      {
+        "id": 10163,
+        "en": "Hatirjheel",
+        "bn": ""
+      },
+      {
+        "id": 10164,
+        "en": "Jatrabari",
+        "bn": ""
+      },
+      {
+        "id": 10165,
+        "en": "Kadamtoli",
+        "bn": ""
+      },
+      {
+        "id": 10166,
+        "en": "Kafrul",
+        "bn": ""
+      },
+      {
+        "id": 10167,
+        "en": "Kalabagan",
+        "bn": ""
+      },
+      {
+        "id": 10168,
+        "en": "Kamrangichar",
+        "bn": ""
+      },
+      {
+        "id": 10169,
+        "en": "Khilgaon",
+        "bn": ""
+      },
+      {
+        "id": 10170,
+        "en": "Khilkhet",
+        "bn": ""
+      },
+      {
+        "id": 10171,
+        "en": "Kotwali",
+        "bn": ""
+      },
+      {
+        "id": 10172,
+        "en": "Lalbag",
+        "bn": ""
+      },
+      {
+        "id": 10173,
+        "en": "Mirpur",
+        "bn": ""
+      },
+      {
+        "id": 10174,
+        "en": "Mohammadpur",
+        "bn": ""
+      },
+      {
+        "id": 10175,
+        "en": "Motijheel",
+        "bn": ""
+      },
+      {
+        "id": 10176,
+        "en": "Mugda",
+        "bn": ""
+      },
+      {
+        "id": 10177,
+        "en": "New market",
+        "bn": ""
+      },
+      {
+        "id": 10178,
+        "en": "Pallabi",
+        "bn": ""
+      },
+      {
+        "id": 10179,
+        "en": "Paltan",
+        "bn": ""
+      },
+      {
+        "id": 10180,
+        "en": "Ramna",
+        "bn": ""
+      },
+      {
+        "id": 10181,
+        "en": "Rampura",
+        "bn": ""
+      },
+      {
+        "id": 10182,
+        "en": "Rupnagar",
+        "bn": ""
+      },
+      {
+        "id": 10183,
+        "en": "Sabujbag",
+        "bn": ""
+      },
+      {
+        "id": 10184,
+        "en": "Shah-ali",
+        "bn": ""
+      },
+      {
+        "id": 10185,
+        "en": "Shahbag",
+        "bn": ""
+      },
+      {
+        "id": 10186,
+        "en": "Shahzahanpur",
+        "bn": ""
+      },
+      {
+        "id": 10187,
+        "en": "Sher-e-Bangla Nagar",
+        "bn": ""
+      },
+      {
+        "id": 10188,
+        "en": "Shyampur",
+        "bn": ""
+      },
+      {
+        "id": 10189,
+        "en": "Sutrapur",
+        "bn": ""
+      },
+      {
+        "id": 10190,
+        "en": "Tejgaon",
+        "bn": ""
+      },
+      {
+        "id": 10191,
+        "en": "Tejgaon Industrial Area",
+        "bn": ""
+      },
+      {
+        "id": 10192,
+        "en": "Turag",
+        "bn": ""
+      },
+      {
+        "id": 10193,
+        "en": "Uttar Khan",
+        "bn": ""
+      },
+      {
+        "id": 10194,
+        "en": "Uttara",
+        "bn": ""
+      },
+      {
+        "id": 10195,
+        "en": "Uttara West",
+        "bn": ""
+      },
+      {
+        "id": 10196,
+        "en": "Vasantek",
+        "bn": ""
+      },
+      {
+        "id": 10197,
+        "en": "Vatra",
+        "bn": ""
+      },
+      {
+        "id": 10198,
+        "en": "Wari",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "en": "Dinajpur",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10199,
+        "en": "Birampur",
+        "bn": ""
+      },
+      {
+        "id": 10200,
+        "en": "Birgonj",
+        "bn": ""
+      },
+      {
+        "id": 10201,
+        "en": "Birol",
+        "bn": ""
+      },
+      {
+        "id": 10202,
+        "en": "Bochagonj",
+        "bn": ""
+      },
+      {
+        "id": 10203,
+        "en": "Chirirbandar",
+        "bn": ""
+      },
+      {
+        "id": 10204,
+        "en": "Fulbari",
+        "bn": ""
+      },
+      {
+        "id": 10205,
+        "en": "Ghoraghat",
+        "bn": ""
+      },
+      {
+        "id": 10206,
+        "en": "Hakimpur",
+        "bn": ""
+      },
+      {
+        "id": 10207,
+        "en": "Kaharul",
+        "bn": ""
+      },
+      {
+        "id": 10208,
+        "en": "Khanshama",
+        "bn": ""
+      },
+      {
+        "id": 10209,
+        "en": "Kotwali",
+        "bn": ""
+      },
+      {
+        "id": 10210,
+        "en": "Nawabgonj",
+        "bn": ""
+      },
+      {
+        "id": 10211,
+        "en": "Parbatipur",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1019,
+    "en": "Faridpur",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10212,
+        "en": "Alfadanga",
+        "bn": ""
+      },
+      {
+        "id": 10213,
+        "en": "Boalmari",
+        "bn": ""
+      },
+      {
+        "id": 10214,
+        "en": "Char Vodrason",
+        "bn": ""
+      },
+      {
+        "id": 10215,
+        "en": "Kotwali",
+        "bn": ""
+      },
+      {
+        "id": 10216,
+        "en": "Modhukhali",
+        "bn": ""
+      },
+      {
+        "id": 10217,
+        "en": "Nagarkanda",
+        "bn": ""
+      },
+      {
+        "id": 10218,
+        "en": "Sadarpur",
+        "bn": ""
+      },
+      {
+        "id": 10219,
+        "en": "Saltha",
+        "bn": ""
+      },
+      {
+        "id": 10220,
+        "en": "Vanga",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "en": "Feni",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10221,
+        "en": "Chagolnaiya",
+        "bn": ""
+      },
+      {
+        "id": 10222,
+        "en": "Dagonbhuiyan",
+        "bn": ""
+      },
+      {
+        "id": 10223,
+        "en": "Fulgazi",
+        "bn": ""
+      },
+      {
+        "id": 10224,
+        "en": "Porshuram",
+        "bn": ""
+      },
+      {
+        "id": 10225,
+        "en": "Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10226,
+        "en": "Sonagazi",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "en": "Gaibandha",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10227,
+        "en": "Fulchhari",
+        "bn": ""
+      },
+      {
+        "id": 10228,
+        "en": "Gaibandha",
+        "bn": ""
+      },
+      {
+        "id": 10229,
+        "en": "Gobindagonj",
+        "bn": ""
+      },
+      {
+        "id": 10230,
+        "en": "Palashbari",
+        "bn": ""
+      },
+      {
+        "id": 10231,
+        "en": "Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10232,
+        "en": "Shadullhapur",
+        "bn": ""
+      },
+      {
+        "id": 10233,
+        "en": "Sundargonj",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "en": "Gazipur",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10234,
+        "en": "Joydebpur",
+        "bn": ""
+      },
+      {
+        "id": 10235,
+        "en": "Kaliaquir",
+        "bn": ""
+      },
+      {
+        "id": 10236,
+        "en": "Kaligonj",
+        "bn": ""
+      },
+      {
+        "id": 10237,
+        "en": "Kapasia",
+        "bn": ""
+      },
+      {
+        "id": 10238,
+        "en": "Sreepur",
+        "bn": ""
+      },
+      {
+        "id": 10239,
+        "en": "Tangi",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "en": "Gazipur Metro",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10240,
+        "en": "Bason",
+        "bn": ""
+      },
+      {
+        "id": 10241,
+        "en": "Gacha",
+        "bn": ""
+      },
+      {
+        "id": 10242,
+        "en": "Gazipur Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10243,
+        "en": "Kashimpur",
+        "bn": ""
+      },
+      {
+        "id": 10244,
+        "en": "Konabari",
+        "bn": ""
+      },
+      {
+        "id": 10245,
+        "en": "Pubail",
+        "bn": ""
+      },
+      {
+        "id": 10246,
+        "en": "Tongi East",
+        "bn": ""
+      },
+      {
+        "id": 10247,
+        "en": "Tongi West",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "en": "Gopalgonj",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10248,
+        "en": "Gopalgonj",
+        "bn": ""
+      },
+      {
+        "id": 10249,
+        "en": "Kashiani",
+        "bn": ""
+      },
+      {
+        "id": 10250,
+        "en": "Kotalipara",
+        "bn": ""
+      },
+      {
+        "id": 10251,
+        "en": "Mokshudpur",
+        "bn": ""
+      },
+      {
+        "id": 10252,
+        "en": "Tungipara",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1025,
+    "en": "Habigonj",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10253,
+        "en": "Ajmirigonj",
+        "bn": ""
+      },
+      {
+        "id": 10254,
+        "en": "Bahubal",
+        "bn": ""
+      },
+      {
+        "id": 10255,
+        "en": "Baniachang",
+        "bn": ""
+      },
+      {
+        "id": 10256,
+        "en": "Chunarughat",
+        "bn": ""
+      },
+      {
+        "id": 10257,
+        "en": "Habigonj Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10258,
+        "en": "Lakhai",
+        "bn": ""
+      },
+      {
+        "id": 10259,
+        "en": "Madabpur",
+        "bn": ""
+      },
+      {
+        "id": 10260,
+        "en": "Nabigonj",
+        "bn": ""
+      },
+      {
+        "id": 10261,
+        "en": "Shaestagonj",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1026,
+    "en": "Jaflong",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10262,
+        "en": "Tourist",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1027,
+    "en": "Jamalpur",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10263,
+        "en": "Bakshigonj",
+        "bn": ""
+      },
+      {
+        "id": 10264,
+        "en": "Dewangonj",
+        "bn": ""
+      },
+      {
+        "id": 10265,
+        "en": "Islampur",
+        "bn": ""
+      },
+      {
+        "id": 10266,
+        "en": "Jamalpur",
+        "bn": ""
+      },
+      {
+        "id": 10267,
+        "en": "Madargonj",
+        "bn": ""
+      },
+      {
+        "id": 10268,
+        "en": "Melandah",
+        "bn": ""
+      },
+      {
+        "id": 10269,
+        "en": "Sharishabari",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "en": "Jessore",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10270,
+        "en": "Bagharpara",
+        "bn": ""
+      },
+      {
+        "id": 10271,
+        "en": "Banapol",
+        "bn": ""
+      },
+      {
+        "id": 10272,
+        "en": "Chougasa",
+        "bn": ""
+      },
+      {
+        "id": 10273,
+        "en": "Jhikorgasa",
+        "bn": ""
+      },
+      {
+        "id": 10274,
+        "en": "Kesobpur",
+        "bn": ""
+      },
+      {
+        "id": 10275,
+        "en": "Kotwali",
+        "bn": ""
+      },
+      {
+        "id": 10276,
+        "en": "Monirampur",
+        "bn": ""
+      },
+      {
+        "id": 10277,
+        "en": "Ovoynogor",
+        "bn": ""
+      },
+      {
+        "id": 10278,
+        "en": "Sharsa",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "en": "Jhalokathi",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10279,
+        "en": "Kathalia",
+        "bn": ""
+      },
+      {
+        "id": 10280,
+        "en": "Nolchity",
+        "bn": ""
+      },
+      {
+        "id": 10281,
+        "en": "Rajapur",
+        "bn": ""
+      },
+      {
+        "id": 10282,
+        "en": "Sadar",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1030,
+    "en": "Jhenaidah",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10283,
+        "en": "Horinakundu",
+        "bn": ""
+      },
+      {
+        "id": 10284,
+        "en": "Jhenaidah",
+        "bn": ""
+      },
+      {
+        "id": 10285,
+        "en": "Kaligonj",
+        "bn": ""
+      },
+      {
+        "id": 10286,
+        "en": "Kotchadpur",
+        "bn": ""
+      },
+      {
+        "id": 10287,
+        "en": "Moheshpur",
+        "bn": ""
+      },
+      {
+        "id": 10288,
+        "en": "Shailkupa",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1031,
+    "en": "Joypurhat",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10289,
+        "en": "Akkelpur",
+        "bn": ""
+      },
+      {
+        "id": 10290,
+        "en": "Joypurhat",
+        "bn": ""
+      },
+      {
+        "id": 10291,
+        "en": "Kalai",
+        "bn": ""
+      },
+      {
+        "id": 10292,
+        "en": "Khetlal",
+        "bn": ""
+      },
+      {
+        "id": 10293,
+        "en": "Panchbibi",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1032,
+    "en": "Khagrachari",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10294,
+        "en": "Dighinala",
+        "bn": ""
+      },
+      {
+        "id": 10295,
+        "en": "Guimara",
+        "bn": ""
+      },
+      {
+        "id": 10296,
+        "en": "Laxmichari",
+        "bn": ""
+      },
+      {
+        "id": 10297,
+        "en": "Manigchari",
+        "bn": ""
+      },
+      {
+        "id": 10298,
+        "en": "Matiranga",
+        "bn": ""
+      },
+      {
+        "id": 10299,
+        "en": "Mohalchari",
+        "bn": ""
+      },
+      {
+        "id": 10300,
+        "en": "Panchari",
+        "bn": ""
+      },
+      {
+        "id": 10301,
+        "en": "Ramgor",
+        "bn": ""
+      },
+      {
+        "id": 10302,
+        "en": "Sadar",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1033,
+    "en": "Khulna",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10303,
+        "en": "Batiaghata",
+        "bn": ""
+      },
+      {
+        "id": 10304,
+        "en": "Dakop",
+        "bn": ""
+      },
+      {
+        "id": 10305,
+        "en": "Digholia",
+        "bn": ""
+      },
+      {
+        "id": 10306,
+        "en": "Dumuria",
+        "bn": ""
+      },
+      {
+        "id": 10307,
+        "en": "Fultola",
+        "bn": ""
+      },
+      {
+        "id": 10308,
+        "en": "Koyra",
+        "bn": ""
+      },
+      {
+        "id": 10309,
+        "en": "Paikgasa",
+        "bn": ""
+      },
+      {
+        "id": 10310,
+        "en": "Rupsha",
+        "bn": ""
+      },
+      {
+        "id": 10311,
+        "en": "Tarokhada",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1034,
+    "en": "Khulna Metro",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10312,
+        "en": "Arangghata",
+        "bn": ""
+      },
+      {
+        "id": 10313,
+        "en": "Daulatpur",
+        "bn": ""
+      },
+      {
+        "id": 10314,
+        "en": "Horintana",
+        "bn": ""
+      },
+      {
+        "id": 10315,
+        "en": "Khalishpur",
+        "bn": ""
+      },
+      {
+        "id": 10316,
+        "en": "Khanjahanali",
+        "bn": ""
+      },
+      {
+        "id": 10317,
+        "en": "Khulna thana",
+        "bn": ""
+      },
+      {
+        "id": 10318,
+        "en": "Labanchara",
+        "bn": ""
+      },
+      {
+        "id": 10319,
+        "en": "Sonadanga",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1035,
+    "en": "Kishoregonj",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10320,
+        "en": "Austagram",
+        "bn": ""
+      },
+      {
+        "id": 10321,
+        "en": "Bajitpur",
+        "bn": ""
+      },
+      {
+        "id": 10322,
+        "en": "Bhairab",
+        "bn": ""
+      },
+      {
+        "id": 10323,
+        "en": "Hossainpur",
+        "bn": ""
+      },
+      {
+        "id": 10324,
+        "en": "Itna",
+        "bn": ""
+      },
+      {
+        "id": 10325,
+        "en": "Karimgonj",
+        "bn": ""
+      },
+      {
+        "id": 10326,
+        "en": "Kishoregonj Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10327,
+        "en": "Kotiyadi",
+        "bn": ""
+      },
+      {
+        "id": 10328,
+        "en": "Kuliarchar",
+        "bn": ""
+      },
+      {
+        "id": 10329,
+        "en": "Mithamoin",
+        "bn": ""
+      },
+      {
+        "id": 10330,
+        "en": "Nikli",
+        "bn": ""
+      },
+      {
+        "id": 10331,
+        "en": "Pakundia",
+        "bn": ""
+      },
+      {
+        "id": 10332,
+        "en": "Tarail",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1036,
+    "en": "Kurigram",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10333,
+        "en": "Bhurungimari",
+        "bn": ""
+      },
+      {
+        "id": 10334,
+        "en": "Chilmari",
+        "bn": ""
+      },
+      {
+        "id": 10335,
+        "en": "Dusmara",
+        "bn": ""
+      },
+      {
+        "id": 10336,
+        "en": "Fulbari",
+        "bn": ""
+      },
+      {
+        "id": 10337,
+        "en": "Kachakata",
+        "bn": ""
+      },
+      {
+        "id": 10338,
+        "en": "Kurigram",
+        "bn": ""
+      },
+      {
+        "id": 10339,
+        "en": "Nageshori",
+        "bn": ""
+      },
+      {
+        "id": 10340,
+        "en": "Rajarhat",
+        "bn": ""
+      },
+      {
+        "id": 10341,
+        "en": "Rajibpur",
+        "bn": ""
+      },
+      {
+        "id": 10342,
+        "en": "Rowmari",
+        "bn": ""
+      },
+      {
+        "id": 10343,
+        "en": "Ulipur",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1037,
+    "en": "Kustia",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10344,
+        "en": "Bheramara",
+        "bn": ""
+      },
+      {
+        "id": 10345,
+        "en": "Doulatpur",
+        "bn": ""
+      },
+      {
+        "id": 10346,
+        "en": "EB (Islamic University)",
+        "bn": ""
+      },
+      {
+        "id": 10347,
+        "en": "Khocsha",
+        "bn": ""
+      },
+      {
+        "id": 10348,
+        "en": "Kumarkhali",
+        "bn": ""
+      },
+      {
+        "id": 10349,
+        "en": "Kustia Model",
+        "bn": ""
+      },
+      {
+        "id": 10350,
+        "en": "Mirpur",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1038,
+    "en": "Lalmonirhat",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10351,
+        "en": "Aditmari",
+        "bn": ""
+      },
+      {
+        "id": 10352,
+        "en": "Hatibanda",
+        "bn": ""
+      },
+      {
+        "id": 10353,
+        "en": "Kaligonj",
+        "bn": ""
+      },
+      {
+        "id": 10354,
+        "en": "Lalmonirhat",
+        "bn": ""
+      },
+      {
+        "id": 10355,
+        "en": "Patgram",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1039,
+    "en": "Laxmipur",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10356,
+        "en": "Chandragonj",
+        "bn": ""
+      },
+      {
+        "id": 10357,
+        "en": "Kamalnagar",
+        "bn": ""
+      },
+      {
+        "id": 10358,
+        "en": "Laxmipur",
+        "bn": ""
+      },
+      {
+        "id": 10359,
+        "en": "Raipur",
+        "bn": ""
+      },
+      {
+        "id": 10360,
+        "en": "Ramgonj",
+        "bn": ""
+      },
+      {
+        "id": 10361,
+        "en": "Ramgoti",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1040,
+    "en": "Madaripur",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10362,
+        "en": "Dasher",
+        "bn": ""
+      },
+      {
+        "id": 10363,
+        "en": "Kalkini",
+        "bn": ""
+      },
+      {
+        "id": 10364,
+        "en": "Madaripur",
+        "bn": ""
+      },
+      {
+        "id": 10365,
+        "en": "Rajoir",
+        "bn": ""
+      },
+      {
+        "id": 10366,
+        "en": "Shibchar",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1041,
+    "en": "Magura",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10367,
+        "en": "Magura",
+        "bn": ""
+      },
+      {
+        "id": 10368,
+        "en": "Mohammodpur",
+        "bn": ""
+      },
+      {
+        "id": 10369,
+        "en": "Shalika",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1042,
+    "en": "Manikgonj",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10370,
+        "en": "Doulotpur",
+        "bn": ""
+      },
+      {
+        "id": 10371,
+        "en": "Ghior",
+        "bn": ""
+      },
+      {
+        "id": 10372,
+        "en": "Harirampur",
+        "bn": ""
+      },
+      {
+        "id": 10373,
+        "en": "Manikgonj Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10374,
+        "en": "Shaturia",
+        "bn": ""
+      },
+      {
+        "id": 10375,
+        "en": "Shibalay",
+        "bn": ""
+      },
+      {
+        "id": 10376,
+        "en": "Singair",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1043,
+    "en": "Meherpur",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10377,
+        "en": "Gangni",
+        "bn": ""
+      },
+      {
+        "id": 10378,
+        "en": "Meherpur",
+        "bn": ""
+      },
+      {
+        "id": 10379,
+        "en": "Mujib nogor",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1044,
+    "en": "Moulabhibazar",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10380,
+        "en": "Baralekha",
+        "bn": ""
+      },
+      {
+        "id": 10381,
+        "en": "Juri",
+        "bn": ""
+      },
+      {
+        "id": 10382,
+        "en": "Kamalgonj",
+        "bn": ""
+      },
+      {
+        "id": 10383,
+        "en": "Kulaura",
+        "bn": ""
+      },
+      {
+        "id": 10384,
+        "en": "Moulabhibazar Model",
+        "bn": ""
+      },
+      {
+        "id": 10385,
+        "en": "Rajnagor",
+        "bn": ""
+      },
+      {
+        "id": 10386,
+        "en": "Srimangol",
+        "bn": ""
+      },
+      {
+        "id": 10387,
+        "en": "Tourist",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1045,
+    "en": "Munshigonj",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10388,
+        "en": "Gozaria",
+        "bn": ""
+      },
+      {
+        "id": 10389,
+        "en": "Louhojong",
+        "bn": ""
+      },
+      {
+        "id": 10390,
+        "en": "Munshigonj",
+        "bn": ""
+      },
+      {
+        "id": 10391,
+        "en": "Sirajdikhan",
+        "bn": ""
+      },
+      {
+        "id": 10392,
+        "en": "Sreenagor",
+        "bn": ""
+      },
+      {
+        "id": 10393,
+        "en": "Tongibari",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1046,
+    "en": "Mymensingh",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10394,
+        "en": "Dhobaura",
+        "bn": ""
+      },
+      {
+        "id": 10395,
+        "en": "Fulbaria",
+        "bn": ""
+      },
+      {
+        "id": 10396,
+        "en": "Fulpur",
+        "bn": ""
+      },
+      {
+        "id": 10397,
+        "en": "Gaforgaon",
+        "bn": ""
+      },
+      {
+        "id": 10398,
+        "en": "Gouripur",
+        "bn": ""
+      },
+      {
+        "id": 10399,
+        "en": "Haluaghat",
+        "bn": ""
+      },
+      {
+        "id": 10400,
+        "en": "Isshargonj",
+        "bn": ""
+      },
+      {
+        "id": 10401,
+        "en": "Kotwali",
+        "bn": ""
+      },
+      {
+        "id": 10402,
+        "en": "Muktagachha",
+        "bn": ""
+      },
+      {
+        "id": 10403,
+        "en": "Nandail",
+        "bn": ""
+      },
+      {
+        "id": 10404,
+        "en": "Pagla",
+        "bn": ""
+      },
+      {
+        "id": 10405,
+        "en": "Railway Thana",
+        "bn": ""
+      },
+      {
+        "id": 10406,
+        "en": "Tarakanda",
+        "bn": ""
+      },
+      {
+        "id": 10407,
+        "en": "Trishal",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1047,
+    "en": "Naogaon",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10408,
+        "en": "Badolghachi",
+        "bn": ""
+      },
+      {
+        "id": 10409,
+        "en": "Dahmurhat",
+        "bn": ""
+      },
+      {
+        "id": 10410,
+        "en": "Mahadebpur",
+        "bn": ""
+      },
+      {
+        "id": 10411,
+        "en": "Manda",
+        "bn": ""
+      },
+      {
+        "id": 10412,
+        "en": "Nyamatpur",
+        "bn": ""
+      },
+      {
+        "id": 10413,
+        "en": "Porsha",
+        "bn": ""
+      },
+      {
+        "id": 10414,
+        "en": "Raninagar",
+        "bn": ""
+      },
+      {
+        "id": 10415,
+        "en": "Shapahar",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1048,
+    "en": "Narail",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10416,
+        "en": "Kalia",
+        "bn": ""
+      },
+      {
+        "id": 10417,
+        "en": "Lohagora",
+        "bn": ""
+      },
+      {
+        "id": 10418,
+        "en": "Naragati",
+        "bn": ""
+      },
+      {
+        "id": 10419,
+        "en": "Narail",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1049,
+    "en": "Narayangonj",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10420,
+        "en": "Arihazar",
+        "bn": ""
+      },
+      {
+        "id": 10421,
+        "en": "Bandar",
+        "bn": ""
+      },
+      {
+        "id": 10422,
+        "en": "Fatulla",
+        "bn": ""
+      },
+      {
+        "id": 10423,
+        "en": "Narayangonj Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10424,
+        "en": "Rupgonj",
+        "bn": ""
+      },
+      {
+        "id": 10425,
+        "en": "Siddirganj",
+        "bn": ""
+      },
+      {
+        "id": 10426,
+        "en": "Sonar Gaon",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1050,
+    "en": "Narsingdi",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10427,
+        "en": "Belabo",
+        "bn": ""
+      },
+      {
+        "id": 10428,
+        "en": "Manohordi",
+        "bn": ""
+      },
+      {
+        "id": 10429,
+        "en": "Narsingdi Model",
+        "bn": ""
+      },
+      {
+        "id": 10430,
+        "en": "Palash",
+        "bn": ""
+      },
+      {
+        "id": 10431,
+        "en": "Raipura",
+        "bn": ""
+      },
+      {
+        "id": 10432,
+        "en": "Shibpur Model",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1051,
+    "en": "Natore",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10433,
+        "en": "Bagatipara",
+        "bn": ""
+      },
+      {
+        "id": 10434,
+        "en": "Baraigram",
+        "bn": ""
+      },
+      {
+        "id": 10435,
+        "en": "Guradashpur",
+        "bn": ""
+      },
+      {
+        "id": 10436,
+        "en": "Lalpur",
+        "bn": ""
+      },
+      {
+        "id": 10437,
+        "en": "Noldanga",
+        "bn": ""
+      },
+      {
+        "id": 10438,
+        "en": "Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10439,
+        "en": "Singra",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1052,
+    "en": "Netrokona",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10440,
+        "en": "Atpara",
+        "bn": ""
+      },
+      {
+        "id": 10441,
+        "en": "Barhatta",
+        "bn": ""
+      },
+      {
+        "id": 10442,
+        "en": "Durgapur",
+        "bn": ""
+      },
+      {
+        "id": 10443,
+        "en": "Kendua",
+        "bn": ""
+      },
+      {
+        "id": 10444,
+        "en": "Khaliajuri",
+        "bn": ""
+      },
+      {
+        "id": 10445,
+        "en": "Komlakanda",
+        "bn": ""
+      },
+      {
+        "id": 10446,
+        "en": "Madon",
+        "bn": ""
+      },
+      {
+        "id": 10447,
+        "en": "Mohongonj",
+        "bn": ""
+      },
+      {
+        "id": 10448,
+        "en": "Netrokona Model",
+        "bn": ""
+      },
+      {
+        "id": 10449,
+        "en": "Purbadhala",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1053,
+    "en": "Nilphamari",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10450,
+        "en": "Dimla",
+        "bn": ""
+      },
+      {
+        "id": 10451,
+        "en": "Domar",
+        "bn": ""
+      },
+      {
+        "id": 10452,
+        "en": "Jaldhaka",
+        "bn": ""
+      },
+      {
+        "id": 10453,
+        "en": "Kishorganj",
+        "bn": ""
+      },
+      {
+        "id": 10454,
+        "en": "Nilphamari",
+        "bn": ""
+      },
+      {
+        "id": 10455,
+        "en": "Syedpur",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1054,
+    "en": "Noakhali",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10456,
+        "en": "Begaumgonj",
+        "bn": ""
+      },
+      {
+        "id": 10457,
+        "en": "Charjobbar",
+        "bn": ""
+      },
+      {
+        "id": 10458,
+        "en": "Chatkhil",
+        "bn": ""
+      },
+      {
+        "id": 10459,
+        "en": "Companygonj",
+        "bn": ""
+      },
+      {
+        "id": 10460,
+        "en": "Hatia",
+        "bn": ""
+      },
+      {
+        "id": 10461,
+        "en": "Kobirhat",
+        "bn": ""
+      },
+      {
+        "id": 10462,
+        "en": "Senbag",
+        "bn": ""
+      },
+      {
+        "id": 10463,
+        "en": "Sonaimuri",
+        "bn": ""
+      },
+      {
+        "id": 10464,
+        "en": "Sudharam",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1055,
+    "en": "Pabna",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10465,
+        "en": "Aminpur",
+        "bn": ""
+      },
+      {
+        "id": 10466,
+        "en": "Ataikula",
+        "bn": ""
+      },
+      {
+        "id": 10467,
+        "en": "Atghoria",
+        "bn": ""
+      },
+      {
+        "id": 10468,
+        "en": "Bangura",
+        "bn": ""
+      },
+      {
+        "id": 10469,
+        "en": "Bera Model",
+        "bn": ""
+      },
+      {
+        "id": 10470,
+        "en": "Chatmahor",
+        "bn": ""
+      },
+      {
+        "id": 10471,
+        "en": "Faridpur",
+        "bn": ""
+      },
+      {
+        "id": 10472,
+        "en": "Ishwardi",
+        "bn": ""
+      },
+      {
+        "id": 10473,
+        "en": "Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10474,
+        "en": "Shathia",
+        "bn": ""
+      },
+      {
+        "id": 10475,
+        "en": "Sujanagar",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1056,
+    "en": "Panchagarh",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10476,
+        "en": "Atwari",
+        "bn": ""
+      },
+      {
+        "id": 10477,
+        "en": "Boda",
+        "bn": ""
+      },
+      {
+        "id": 10478,
+        "en": "Debiganj",
+        "bn": ""
+      },
+      {
+        "id": 10479,
+        "en": "Panchagarh",
+        "bn": ""
+      },
+      {
+        "id": 10480,
+        "en": "Tentulia",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1057,
+    "en": "Patuakhali",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10481,
+        "en": "Boufal",
+        "bn": ""
+      },
+      {
+        "id": 10482,
+        "en": "Dashmina",
+        "bn": ""
+      },
+      {
+        "id": 10483,
+        "en": "Dumki",
+        "bn": ""
+      },
+      {
+        "id": 10484,
+        "en": "Galachipa",
+        "bn": ""
+      },
+      {
+        "id": 10485,
+        "en": "Kolapara",
+        "bn": ""
+      },
+      {
+        "id": 10486,
+        "en": "Mirjagonj",
+        "bn": ""
+      },
+      {
+        "id": 10487,
+        "en": "Mohipur",
+        "bn": ""
+      },
+      {
+        "id": 10488,
+        "en": "Rangabali",
+        "bn": ""
+      },
+      {
+        "id": 10489,
+        "en": "Sadar",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1058,
+    "en": "Pirojpur",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10490,
+        "en": "Bhandaria",
+        "bn": ""
+      },
+      {
+        "id": 10491,
+        "en": "Indurkani",
+        "bn": ""
+      },
+      {
+        "id": 10492,
+        "en": "Kowkhali",
+        "bn": ""
+      },
+      {
+        "id": 10493,
+        "en": "Motbaria",
+        "bn": ""
+      },
+      {
+        "id": 10494,
+        "en": "Najirpur",
+        "bn": ""
+      },
+      {
+        "id": 10495,
+        "en": "Nesarabad",
+        "bn": ""
+      },
+      {
+        "id": 10496,
+        "en": "Sadar",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1059,
+    "en": "Rajbari",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10497,
+        "en": "Baliakandi",
+        "bn": ""
+      },
+      {
+        "id": 10498,
+        "en": "Goalanda",
+        "bn": ""
+      },
+      {
+        "id": 10499,
+        "en": "Kalukhali",
+        "bn": ""
+      },
+      {
+        "id": 10500,
+        "en": "Pangsha",
+        "bn": ""
+      },
+      {
+        "id": 10501,
+        "en": "Rajbari",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1060,
+    "en": "Rajshahi",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10502,
+        "en": "Bagha",
+        "bn": ""
+      },
+      {
+        "id": 10503,
+        "en": "Bagmara",
+        "bn": ""
+      },
+      {
+        "id": 10504,
+        "en": "Charghat",
+        "bn": ""
+      },
+      {
+        "id": 10505,
+        "en": "Durgapur",
+        "bn": ""
+      },
+      {
+        "id": 10506,
+        "en": "Godagari",
+        "bn": ""
+      },
+      {
+        "id": 10507,
+        "en": "Mohonpur",
+        "bn": ""
+      },
+      {
+        "id": 10508,
+        "en": "Paba",
+        "bn": ""
+      },
+      {
+        "id": 10509,
+        "en": "Puthia",
+        "bn": ""
+      },
+      {
+        "id": 10510,
+        "en": "Tanore",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1061,
+    "en": "Rajshahi Metro",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10511,
+        "en": "Airport",
+        "bn": ""
+      },
+      {
+        "id": 10512,
+        "en": "Belpukur",
+        "bn": ""
+      },
+      {
+        "id": 10513,
+        "en": "Boalia",
+        "bn": ""
+      },
+      {
+        "id": 10514,
+        "en": "Chandrima",
+        "bn": ""
+      },
+      {
+        "id": 10515,
+        "en": "Damkura",
+        "bn": ""
+      },
+      {
+        "id": 10516,
+        "en": "Kashiadanga",
+        "bn": ""
+      },
+      {
+        "id": 10517,
+        "en": "Katakhali",
+        "bn": ""
+      },
+      {
+        "id": 10518,
+        "en": "Kornohar",
+        "bn": ""
+      },
+      {
+        "id": 10519,
+        "en": "Motihar",
+        "bn": ""
+      },
+      {
+        "id": 10520,
+        "en": "Poba",
+        "bn": ""
+      },
+      {
+        "id": 10521,
+        "en": "Rajpara",
+        "bn": ""
+      },
+      {
+        "id": 10522,
+        "en": "Shahmokhdum",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1062,
+    "en": "Rangamati",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10523,
+        "en": "Baghaichari",
+        "bn": ""
+      },
+      {
+        "id": 10524,
+        "en": "Barkal",
+        "bn": ""
+      },
+      {
+        "id": 10525,
+        "en": "Belaichari",
+        "bn": ""
+      },
+      {
+        "id": 10526,
+        "en": "Chandroghona",
+        "bn": ""
+      },
+      {
+        "id": 10527,
+        "en": "Jurachari",
+        "bn": ""
+      },
+      {
+        "id": 10528,
+        "en": "Kaptai",
+        "bn": ""
+      },
+      {
+        "id": 10529,
+        "en": "Kawkhali",
+        "bn": ""
+      },
+      {
+        "id": 10530,
+        "en": "Kotwali",
+        "bn": ""
+      },
+      {
+        "id": 10531,
+        "en": "Longdhu",
+        "bn": ""
+      },
+      {
+        "id": 10532,
+        "en": "Naniarchair",
+        "bn": ""
+      },
+      {
+        "id": 10533,
+        "en": "Rajsthali",
+        "bn": ""
+      },
+      {
+        "id": 10534,
+        "en": "Sajeck",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1063,
+    "en": "Rangpur",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10535,
+        "en": "Badorgonj",
+        "bn": ""
+      },
+      {
+        "id": 10536,
+        "en": "Gongachara",
+        "bn": ""
+      },
+      {
+        "id": 10537,
+        "en": "Kotwali",
+        "bn": ""
+      },
+      {
+        "id": 10538,
+        "en": "Kownia",
+        "bn": ""
+      },
+      {
+        "id": 10539,
+        "en": "Mithapukur",
+        "bn": ""
+      },
+      {
+        "id": 10540,
+        "en": "Pirgacha",
+        "bn": ""
+      },
+      {
+        "id": 10541,
+        "en": "Pirganj",
+        "bn": ""
+      },
+      {
+        "id": 10542,
+        "en": "Taragonj",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1064,
+    "en": "Saint Martin",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10543,
+        "en": "Tourist",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1065,
+    "en": "Satkhira",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10544,
+        "en": "Ashasuni",
+        "bn": ""
+      },
+      {
+        "id": 10545,
+        "en": "Dabhata",
+        "bn": ""
+      },
+      {
+        "id": 10546,
+        "en": "Kaligonj",
+        "bn": ""
+      },
+      {
+        "id": 10547,
+        "en": "Kolaroa",
+        "bn": ""
+      },
+      {
+        "id": 10548,
+        "en": "Patkelghata",
+        "bn": ""
+      },
+      {
+        "id": 10549,
+        "en": "Satkhira",
+        "bn": ""
+      },
+      {
+        "id": 10550,
+        "en": "Shamnogor",
+        "bn": ""
+      },
+      {
+        "id": 10551,
+        "en": "Tala",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1066,
+    "en": "Shariatpur",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10552,
+        "en": "Bhedargonj",
+        "bn": ""
+      },
+      {
+        "id": 10553,
+        "en": "Damudda",
+        "bn": ""
+      },
+      {
+        "id": 10554,
+        "en": "Goshairhat",
+        "bn": ""
+      },
+      {
+        "id": 10555,
+        "en": "Jajira",
+        "bn": ""
+      },
+      {
+        "id": 10556,
+        "en": "Noria",
+        "bn": ""
+      },
+      {
+        "id": 10557,
+        "en": "Palung Model",
+        "bn": ""
+      },
+      {
+        "id": 10558,
+        "en": "Sakhipur",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1067,
+    "en": "Sherpur",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10559,
+        "en": "Jhenaigati",
+        "bn": ""
+      },
+      {
+        "id": 10560,
+        "en": "Nalitabari",
+        "bn": ""
+      },
+      {
+        "id": 10561,
+        "en": "Nokla",
+        "bn": ""
+      },
+      {
+        "id": 10562,
+        "en": "Sherpur",
+        "bn": ""
+      },
+      {
+        "id": 10563,
+        "en": "Sribordi",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1068,
+    "en": "Sirajgonj",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10564,
+        "en": "Bangabandu Setu West",
+        "bn": ""
+      },
+      {
+        "id": 10565,
+        "en": "Belkuchi",
+        "bn": ""
+      },
+      {
+        "id": 10566,
+        "en": "Chouhali",
+        "bn": ""
+      },
+      {
+        "id": 10567,
+        "en": "Enayetpur",
+        "bn": ""
+      },
+      {
+        "id": 10568,
+        "en": "Kamarkhanda",
+        "bn": ""
+      },
+      {
+        "id": 10569,
+        "en": "Kazipur",
+        "bn": ""
+      },
+      {
+        "id": 10570,
+        "en": "Raigonj",
+        "bn": ""
+      },
+      {
+        "id": 10571,
+        "en": "Salanga",
+        "bn": ""
+      },
+      {
+        "id": 10572,
+        "en": "Shahzadpur",
+        "bn": ""
+      },
+      {
+        "id": 10573,
+        "en": "Sirajgonj Sadar",
+        "bn": ""
+      },
+      {
+        "id": 10574,
+        "en": "Tarash",
+        "bn": ""
+      },
+      {
+        "id": 10575,
+        "en": "Ullahpara",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1069,
+    "en": "Srimangal",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10576,
+        "en": "Tourist",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1070,
+    "en": "Sunamgonj",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10577,
+        "en": "Biswamvorpur",
+        "bn": ""
+      },
+      {
+        "id": 10578,
+        "en": "Chhatok",
+        "bn": ""
+      },
+      {
+        "id": 10579,
+        "en": "Dhokkhin Sunamgonj",
+        "bn": ""
+      },
+      {
+        "id": 10580,
+        "en": "Dhormopasha",
+        "bn": ""
+      },
+      {
+        "id": 10581,
+        "en": "Dirai",
+        "bn": ""
+      },
+      {
+        "id": 10582,
+        "en": "Doarabazar",
+        "bn": ""
+      },
+      {
+        "id": 10583,
+        "en": "Jagoannathpur",
+        "bn": ""
+      },
+      {
+        "id": 10584,
+        "en": "Jamalgonj",
+        "bn": ""
+      },
+      {
+        "id": 10585,
+        "en": "Moddhonagar",
+        "bn": ""
+      },
+      {
+        "id": 10586,
+        "en": "Sulla",
+        "bn": ""
+      },
+      {
+        "id": 10587,
+        "en": "Sunamgonj Model",
+        "bn": ""
+      },
+      {
+        "id": 10588,
+        "en": "Tahirpur",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1071,
+    "en": "Sylhet",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10589,
+        "en": "Balagonj",
+        "bn": ""
+      },
+      {
+        "id": 10590,
+        "en": "Bianibazar",
+        "bn": ""
+      },
+      {
+        "id": 10591,
+        "en": "Bisshanath",
+        "bn": ""
+      },
+      {
+        "id": 10592,
+        "en": "Companigonj",
+        "bn": ""
+      },
+      {
+        "id": 10593,
+        "en": "Fenchugonj",
+        "bn": ""
+      },
+      {
+        "id": 10594,
+        "en": "Goainghat",
+        "bn": ""
+      },
+      {
+        "id": 10595,
+        "en": "Golapgonj",
+        "bn": ""
+      },
+      {
+        "id": 10596,
+        "en": "Jaintapur",
+        "bn": ""
+      },
+      {
+        "id": 10597,
+        "en": "Jokigonj",
+        "bn": ""
+      },
+      {
+        "id": 10598,
+        "en": "Kanighat",
+        "bn": ""
+      },
+      {
+        "id": 10599,
+        "en": "Osmani Nagar",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1072,
+    "en": "Sylhet Metro",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10600,
+        "en": "Airport",
+        "bn": ""
+      },
+      {
+        "id": 10601,
+        "en": "Immegration",
+        "bn": ""
+      },
+      {
+        "id": 10602,
+        "en": "Jalalabad",
+        "bn": ""
+      },
+      {
+        "id": 10603,
+        "en": "Kotwali",
+        "bn": ""
+      },
+      {
+        "id": 10604,
+        "en": "Moglabazar",
+        "bn": ""
+      },
+      {
+        "id": 10605,
+        "en": "Shahporan",
+        "bn": ""
+      },
+      {
+        "id": 10606,
+        "en": "South Surma",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1073,
+    "en": "Tangail",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10607,
+        "en": "Bangabandhu Setu (East)",
+        "bn": ""
+      },
+      {
+        "id": 10608,
+        "en": "Basail",
+        "bn": ""
+      },
+      {
+        "id": 10609,
+        "en": "Bhuapur",
+        "bn": ""
+      },
+      {
+        "id": 10610,
+        "en": "Delduar",
+        "bn": ""
+      },
+      {
+        "id": 10611,
+        "en": "Dhanbari",
+        "bn": ""
+      },
+      {
+        "id": 10612,
+        "en": "Ghatail",
+        "bn": ""
+      },
+      {
+        "id": 10613,
+        "en": "Gopalpur",
+        "bn": ""
+      },
+      {
+        "id": 10614,
+        "en": "Kalihati",
+        "bn": ""
+      },
+      {
+        "id": 10615,
+        "en": "Madhupur",
+        "bn": ""
+      },
+      {
+        "id": 10616,
+        "en": "Mirjapur",
+        "bn": ""
+      },
+      {
+        "id": 10617,
+        "en": "Nagarpur",
+        "bn": ""
+      },
+      {
+        "id": 10618,
+        "en": "Sakhipur",
+        "bn": ""
+      },
+      {
+        "id": 10619,
+        "en": "Tangail Model",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1074,
+    "en": "Teknaf",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10620,
+        "en": "Tourist",
+        "bn": ""
+      }
+    ]
+  },
+  {
+    "id": 1075,
+    "en": "Thakurgaon",
+    "bn": "",
+    "thanas": [
+      {
+        "id": 10621,
+        "en": "Baliadangi",
+        "bn": ""
+      },
+      {
+        "id": 10622,
+        "en": "Haripur",
+        "bn": ""
+      },
+      {
+        "id": 10623,
+        "en": "Pirgonj",
+        "bn": ""
+      },
+      {
+        "id": 10624,
+        "en": "Ranishonkail",
+        "bn": ""
+      },
+      {
+        "id": 10625,
+        "en": "Ruhia",
+        "bn": ""
+      },
+      {
+        "id": 10626,
+        "en": "Thakurgaon",
+        "bn": ""
+      }
+    ]
+  }
+]
