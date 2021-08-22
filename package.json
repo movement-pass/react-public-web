@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "format": "prettier --write src/**/*.js",
+    "build": "react-scripts build",
     "deploy": "npm run build && cdk deploy --require-approval never --profile movement-pass",
     "destroy": "cdk destroy --profile movement-pass"
   },
