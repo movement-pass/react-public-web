@@ -7,11 +7,11 @@ const endpoint =
 
 const storageKey = 'mp:auth';
 
-let _authentication;
+let _authorization;
 
-function getAuthentication() {
-  if (_authentication) {
-    return _authentication;
+function getAuthorization() {
+  if (_authorization) {
+    return _authorization;
   }
 
   const token = sessionStorage.getItem(storageKey);
@@ -23,7 +23,7 @@ function getAuthentication() {
   const decoded = jwtDecode(token);
 
   // noinspection JSUnresolvedVariable
-  _authentication = {
+  _authorization = {
     token,
     expireAt: decoded.exp,
     id: decoded.id,
@@ -31,7 +31,7 @@ function getAuthentication() {
     photo: decoded.photo
   };
 
-  return _authentication;
+  return _authorization;
 }
 
 async function req(method, relativePath, body) {
@@ -43,10 +43,10 @@ async function req(method, relativePath, body) {
     }
   };
 
-  const authentication = getAuthentication();
+  const authorization = getAuthorization();
 
-  if (authentication) {
-    opt.headers.Authorization = `Bearer ${authentication.token}`;
+  if (authorization) {
+    opt.headers.Authorization = `Bearer ${authorization.token}`;
   }
 
   if (body) {
@@ -132,12 +132,12 @@ const Api = {
   },
 
   logout: () => {
-    _authentication = null;
+    _authorization = null;
     sessionStorage.removeItem(storageKey);
   },
 
   getUser: () => {
-    const authentication = getAuthentication();
+    const authentication = getAuthorization();
 
     if (!authentication || authentication.expireAt <= Date.now() / 1000) {
       return null;

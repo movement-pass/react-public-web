@@ -1,11 +1,16 @@
-import { lazy, Suspense, useState } from 'react';
+import { lazy, Suspense, useEffect, useState } from 'react';
 
 import { BrowserRouter, Link, Redirect, Route, Switch } from 'react-router-dom';
 
 import { makeStyles, ThemeProvider } from '@material-ui/core/styles';
+import Alert from '@material-ui/lab/Alert';
 import AppBar from '@material-ui/core/AppBar';
+import CloseIcon from '@material-ui/icons/Close';
+import Collapse from '@material-ui/core/Collapse';
 import Container from '@material-ui/core/Container';
 import CssBaseline from '@material-ui/core/CssBaseline';
+import IconButton from '@material-ui/core/IconButton';
+import MuiLink from '@material-ui/core/Link';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
 
@@ -93,7 +98,21 @@ const Styles = makeStyles((theme) => ({
 
 function App() {
   const styles = Styles();
+  const [noticeOpen, setNoticeOpen] = useState(false);
   const [user, setUser] = useState(api.getUser());
+
+  useEffect(() => {
+    let handle = setTimeout(() => {
+      setNoticeOpen(true);
+      handle = undefined;
+    }, 1000 * 2);
+
+    return () => {
+      if (handle) {
+        clearTimeout(handle);
+      }
+    };
+  }, []);
 
   return (
     <BrowserRouter>
@@ -102,6 +121,34 @@ function App() {
         <LocalizationProvider>
           <AuthenticationProvider user={user} setUser={setUser}>
             <div className={styles.root}>
+              <Collapse in={noticeOpen}>
+                <Alert
+                  severity="warning"
+                  action={
+                    <IconButton
+                      color="inherit"
+                      size="small"
+                      onClick={() => setNoticeOpen(false)}
+                    >
+                      <CloseIcon fontSize="inherit" />
+                    </IconButton>
+                  }
+                >
+                  Disclaimer: Do not confuse this site with the original
+                  movement pass published by Bangladesh Government, it is an
+                  educational application that demonstrate how to create an
+                  scalable application using AWS Serverless services, you can
+                  can find the complete implementation on the following link -
+                  <strong>
+                    <MuiLink
+                      href="https://github.com/movement-pass"
+                      color="inherit"
+                    >
+                      https://github.com/movement-pass
+                    </MuiLink>
+                  </strong>
+                </Alert>
+              </Collapse>
               <AppBar position="relative" className={styles.appBar}>
                 <Toolbar className={styles.toolbar}>
                   <Link to="/" className={styles.logo}>
