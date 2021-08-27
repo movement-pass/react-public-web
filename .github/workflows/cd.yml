@@ -22,7 +22,7 @@ jobs:
         uses: kazimanzurrashid/aws-static-web-app-update-action@v1
         with:
           location: ./build
-          bucket: movement-pass.com
+          bucket: ap-south-1.movement-pass.com
           cache-control: |
             public, max-age=31536000, immutable: ['**', '!./index.html', '!./manifest.json']
             max-age=0, no-cache, no-store, must-revalidate: ['./index.html']
