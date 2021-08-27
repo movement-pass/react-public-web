@@ -37,7 +37,7 @@ class PublicWebStack extends Stack {
     });
 
     const bucket = new Bucket(this, 'Bucket', {
-      bucketName: domain,
+      bucketName: `${this.region}.${domain}`,
       blockPublicAccess: BlockPublicAccess.BLOCK_ALL,
       removalPolicy: RemovalPolicy.RETAIN
     });
