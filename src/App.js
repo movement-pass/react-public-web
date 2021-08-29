@@ -141,7 +141,7 @@ function App() {
                   can find the complete implementation on the following link -
                   <strong>
                     <MuiLink
-                      href="https://github.com/movement-pass"
+                      href="https://github.com/movement-pass/movement-pass.github.io"
                       color="inherit"
                     >
                       https://github.com/movement-pass
