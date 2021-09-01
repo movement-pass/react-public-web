@@ -3,7 +3,7 @@ import jwtDecode from 'jwt-decode';
 const endpoint =
   process.env.NODE_ENV === 'production'
     ? 'https://public-api.movement-pass.com/v1'
-    : 'http://localhost:5001';
+    : 'https://localhost:5001';
 
 const storageKey = 'mp:auth';
 
