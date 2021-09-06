@@ -83,6 +83,11 @@ class PublicWebStack extends Stack {
       ],
       errorConfigurations: [
         {
+          errorCode: 403,
+          responseCode: 200,
+          responsePagePath: `/${rootFile}`
+        },
+        {
           errorCode: 404,
           responseCode: 200,
           responsePagePath: `/${rootFile}`
