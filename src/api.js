@@ -150,7 +150,8 @@ const Api = {
     };
   },
 
-  applyPass: (input) => req('POST', '/passes', input),
+  applyPass: (input) =>
+    req('POST', '/passes', { ...input, token: getAuthorization().token }),
 
   getPasses: (startKey) => {
     let relativePath = '/passes';
