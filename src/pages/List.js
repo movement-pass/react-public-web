@@ -57,7 +57,7 @@ function List() {
       const { passes, nextKey } = await api.getPasses();
       setList(passes);
 
-      if (nextKey.id && nextKey.endAt) {
+      if (nextKey && nextKey.id && nextKey.endAt) {
         setStartKey(nextKey);
       }
     })();
@@ -113,7 +113,7 @@ function List() {
       const { passes, nextKey } = await api.getPasses(startKey);
       const updatedList = [...list, ...passes];
       sort(updatedList, sortColumn, sortDirection);
-      if (nextKey.id && nextKey.endAt) {
+      if (nextKey && nextKey.id && nextKey.endAt) {
         setStartKey(nextKey);
       }
     })();
