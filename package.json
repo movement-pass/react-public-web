@@ -34,7 +34,7 @@
     "@aws-cdk/aws-route53": "^1.125.0",
     "@aws-cdk/aws-route53-targets": "^1.125.0",
     "@aws-cdk/aws-s3": "^1.125.0",
-    "@aws-cdk/aws-s3-deployment": "^1.125.0",
+    "@aws-cdk/aws-s3-deployment": "^1.130.0",
     "@aws-cdk/aws-ssm": "^1.125.0",
     "@aws-cdk/core": "^1.125.0",
     "@testing-library/jest-dom": "^5.14.1",
