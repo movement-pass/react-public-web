@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@aws-cdk/aws-certificatemanager": "^1.125.0",
-    "@aws-cdk/aws-cloudfront": "^1.125.0",
+    "@aws-cdk/aws-cloudfront": "^1.130.0",
     "@aws-cdk/aws-route53": "^1.125.0",
     "@aws-cdk/aws-route53-targets": "^1.125.0",
     "@aws-cdk/aws-s3": "^1.125.0",
