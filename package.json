@@ -29,21 +29,21 @@
     "yup": "^0.32.9"
   },
   "devDependencies": {
-    "@aws-cdk/aws-certificatemanager": "^1.125.0",
-    "@aws-cdk/aws-cloudfront": "^1.125.0",
-    "@aws-cdk/aws-route53": "^1.125.0",
-    "@aws-cdk/aws-route53-targets": "^1.125.0",
-    "@aws-cdk/aws-s3": "^1.125.0",
-    "@aws-cdk/aws-s3-deployment": "^1.125.0",
-    "@aws-cdk/aws-ssm": "^1.125.0",
-    "@aws-cdk/core": "^1.125.0",
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^12.1.1",
-    "@testing-library/user-event": "^13.2.1",
+    "@aws-cdk/aws-certificatemanager": "^1.134.0",
+    "@aws-cdk/aws-cloudfront": "^1.134.0",
+    "@aws-cdk/aws-route53": "^1.134.0",
+    "@aws-cdk/aws-route53-targets": "^1.134.0",
+    "@aws-cdk/aws-s3": "^1.134.0",
+    "@aws-cdk/aws-s3-deployment": "^1.134.0",
+    "@aws-cdk/aws-ssm": "^1.134.0",
+    "@aws-cdk/core": "^1.134.0",
+    "@testing-library/jest-dom": "^5.15.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "prettier": "^2.4.1",
-    "react-scripts": "4.0.3"
+    "prettier": "^2.5.0",
+    "react-scripts": "^4.0.3"
   },
   "eslintConfig": {
     "extends": [

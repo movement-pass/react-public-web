@@ -27,10 +27,10 @@ class PublicWebStack extends Stack {
     super(scope, id, props);
 
     const rootFile = 'index.html';
-    const app = this.node.tryGetContext('app');
+    const appName = this.node.tryGetContext('app');
     const version = this.node.tryGetContext('version');
     const domain = this.node.tryGetContext('domain');
-    const configRootKey = `/${app}/${version}`;
+    const configRootKey = `/${appName}/${version}`;
 
     const zone = HostedZone.fromLookup(this, 'Zone', {
       domainName: domain
@@ -54,7 +54,7 @@ class PublicWebStack extends Stack {
     );
 
     const accessIdentity = new OriginAccessIdentity(this, 'AccessIdentity', {
-      comment: `${app}-public-web-identity`
+      comment: `${appName}-public-web-identity`
     });
 
     const distribution = new CloudFrontWebDistribution(this, 'Distribution', {
