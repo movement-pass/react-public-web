@@ -43,7 +43,7 @@ function Apply() {
   const styles = Styles();
   const [thanas, setThanas] = useState([]);
   const [working, setWorking] = useState(false);
-  const [error, setError] = useState(null);
+  const [error, setError] = useState('');
   const culture = useContext(LocalizationContext);
   const history = useHistory();
 
@@ -189,9 +189,6 @@ function Apply() {
     setFieldValue('selfDriven', e.target.value);
 
     if (e.target.value) {
-      setFieldValue('driverName', '');
-      setFieldValue('driverLicenseNo', '');
-    } else {
       setFieldValue('driverName', '');
       setFieldValue('driverLicenseNo', '');
     }
