@@ -29,7 +29,7 @@
     "yup": "^0.32.11"
   },
   "devDependencies": {
-    "@aws-cdk/aws-certificatemanager": "^1.157.0",
+    "@aws-cdk/aws-certificatemanager": "^1.158.0",
     "@aws-cdk/aws-cloudfront": "^1.157.0",
     "@aws-cdk/aws-route53": "^1.157.0",
     "@aws-cdk/aws-route53-targets": "^1.157.0",
