@@ -38,7 +38,7 @@
     "@aws-cdk/aws-ssm": "^1.167.0",
     "@aws-cdk/core": "^1.167.0",
     "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^12.1.2",
+    "@testing-library/react": "^12.1.5",
     "@testing-library/user-event": "^14.4.2",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
