@@ -1,6 +1,10 @@
 const { Stack, App, RemovalPolicy } = require('aws-cdk-lib');
 
-const { HostedZone, ARecord, RecordTarget } = require('aws-cdk-lib/aws-route53');
+const {
+  HostedZone,
+  ARecord,
+  RecordTarget
+} = require('aws-cdk-lib/aws-route53');
 
 const { Bucket, BlockPublicAccess } = require('aws-cdk-lib/aws-s3');
 
