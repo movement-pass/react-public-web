@@ -6,7 +6,7 @@
     "start": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "format": "prettier --write src/**/*.js",
+    "format": "prettier --check --write ./**/*.{ts,js,json,md,yml,yaml}",
     "build": "react-scripts build",
     "deploy": "npm run build && cdk deploy --require-approval never --profile movement-pass",
     "destroy": "cdk destroy --profile movement-pass"
@@ -29,20 +29,13 @@
     "yup": "^0.32.11"
   },
   "devDependencies": {
-    "@aws-cdk/aws-certificatemanager": "^1.180.0",
-    "@aws-cdk/aws-cloudfront": "^1.180.0",
-    "@aws-cdk/aws-route53": "^1.180.0",
-    "@aws-cdk/aws-route53-targets": "^1.180.0",
-    "@aws-cdk/aws-s3": "^1.180.0",
-    "@aws-cdk/aws-s3-deployment": "^1.180.0",
-    "@aws-cdk/aws-ssm": "^1.180.0",
-    "@aws-cdk/core": "^1.180.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^12.1.5",
     "@testing-library/user-event": "^14.4.3",
+    "aws-cdk-lib": "^2.51.1",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.7.1",
+    "prettier": "^2.8.0",
     "react-scripts": "^5.0.1"
   },
   "eslintConfig": {

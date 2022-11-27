@@ -1,12 +1,12 @@
-const { Stack, App, RemovalPolicy } = require('@aws-cdk/core');
+const { Stack, App, RemovalPolicy } = require('aws-cdk-lib');
 
-const { HostedZone, ARecord, RecordTarget } = require('@aws-cdk/aws-route53');
+const { HostedZone, ARecord, RecordTarget } = require('aws-cdk-lib/aws-route53');
 
-const { Bucket, BlockPublicAccess } = require('@aws-cdk/aws-s3');
+const { Bucket, BlockPublicAccess } = require('aws-cdk-lib/aws-s3');
 
-const { StringParameter } = require('@aws-cdk/aws-ssm');
+const { StringParameter } = require('aws-cdk-lib/aws-ssm');
 
-const { Certificate } = require('@aws-cdk/aws-certificatemanager');
+const { Certificate } = require('aws-cdk-lib/aws-certificatemanager');
 
 const {
   OriginAccessIdentity,
@@ -16,11 +16,11 @@ const {
   ViewerCertificate,
   SSLMethod,
   SecurityPolicyProtocol
-} = require('@aws-cdk/aws-cloudfront');
+} = require('aws-cdk-lib/aws-cloudfront');
 
-const { CloudFrontTarget } = require('@aws-cdk/aws-route53-targets');
+const { CloudFrontTarget } = require('aws-cdk-lib/aws-route53-targets');
 
-const { BucketDeployment, Source } = require('@aws-cdk/aws-s3-deployment');
+const { BucketDeployment, Source } = require('aws-cdk-lib/aws-s3-deployment');
 
 class PublicWebStack extends Stack {
   constructor(scope, id, props) {
