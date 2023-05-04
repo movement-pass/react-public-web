@@ -35,7 +35,7 @@
     "aws-cdk-lib": "^2.72.1",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.8.7",
+    "prettier": "^2.8.8",
     "react-scripts": "^5.0.1"
   },
   "eslintConfig": {
